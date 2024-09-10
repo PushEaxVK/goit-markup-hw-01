@@ -9,4 +9,7 @@
   "jsxBracketSameLine": false,
   "arrowParens": "avoid",
   "proseWrap": "always"
+  // "htmlWhitespaceSensitivity": "ignore",
+  // "singleAttributePerLine": true,
+  // "bracketSameLine": true
 }
